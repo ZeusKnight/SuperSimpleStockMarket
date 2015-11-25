@@ -1,0 +1,8 @@
+sibo\liu\jpm\supersimplestockmarket\stock\CommonStockTest.class
+sibo\liu\jpm\supersimplestockmarket\stock\PreferredStockTest.class
+sibo\liu\jpm\supersimplestockmarket\transaction\TransactionTest.class
+sibo\liu\jpm\supersimplestockmarket\transaction\BuySellIndicatorTest.class
+sibo\liu\jpm\supersimplestockmarket\stock\StockImplTest.class
+sibo\liu\jpm\supersimplestockmarket\transaction\StockTransactionManagerTest.class
+sibo\liu\jpm\supersimplestockmarket\stock\CommonStockTestHelper.class
+sibo\liu\jpm\supersimplestockmarket\SuperSimpleStockMarketTest.class

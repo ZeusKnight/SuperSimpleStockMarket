@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: sibo.liu.jpm.supersimplestockmarket.transaction.TransactionTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec
